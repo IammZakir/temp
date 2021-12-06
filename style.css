@@ -1,0 +1,38 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+h2{
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+li{
+    list-style-type: square;
+}
+.special{
+    color: chocolate;
+    font-weight: bold;
+}
+p i{
+    color: chocolate;
+}
+a:hover{
+    color: rgba(209, 106, 32, 0.61);
+    text-decoration: rgb(233, 144, 10);
+}
+body hr+p small{
+    color:yellow ;
+    background-color: black;
+    padding: 5px;
+}
+li#old{
+    color: red;
+}
+#h1{
+color: red;
+}
